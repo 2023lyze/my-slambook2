@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "*.ipp": "cpp",
+        "bitset": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "fstream": "cpp",
+        "memory": "cpp",
+        "new": "cpp",
+        "numeric": "cpp",
+        "chrono": "cpp",
+        "functional": "cpp"
+    },
+    "editor.cursorBlinking": "blink",
+    "terminal.integrated.cursorStyle": "line",
+    "C_Cpp.errorSquiggles": "disabled"
+}
