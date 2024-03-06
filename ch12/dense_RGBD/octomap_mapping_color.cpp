@@ -47,7 +47,7 @@ int main(int argc, char **argv) {
     cout << "正在将图像转换为 Color Octomap ..." << endl;
 
     // Color octomap tree
-    octomap::ColorOcTree tree(0.01); // 参数为分辨率
+    octomap::ColorOcTree tree(0.01); //  参数为分辨率
 
     for (int i = 0; i < 5; i++) {
         cout << "转换图像中: " << i + 1 << endl;
